@@ -29,6 +29,9 @@
       "tests"
     ]
   },
+  "dependencies": [
+    "Ethernet"
+  ],
   "license": "LGPL-3.0",
   "frameworks": "*",
   "platforms": "ststm32",
